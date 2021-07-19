@@ -1,0 +1,15 @@
+
+    {"id": "knead" ,
+        "name": "Knead Bakery" ,
+        "web": "https://www.kneadvt.com/",
+        "address" : "294 N. Winooski Ave" ,
+        "lat" : "44.4879014",
+        "lon" : "-73.2074067" ,
+        "phone" : "(802) 540-6852",
+        "days": "All week",
+        "hours" : "9 am - 3 pm" ,
+        "isVeg" : "This restaurant IS vegan!",
+        "descrip" : "Plant-based bakery and cafe offering breakfast, lunch, and incredible pastries!"
+        
+    
+    } 

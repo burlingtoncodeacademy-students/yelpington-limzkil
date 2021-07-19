@@ -1,0 +1,13 @@
+{
+  "id": "pingala",
+  "name": "Pingala Cafe",
+  "web": "https://www.pingalacafe.com/",
+  "address": "1 Mill Street",
+  "lat": "44.4883656",
+  "lon": "-73.1851576",
+  "phone": "(802) 540-0110",
+  "days": "All week",
+  "hours": "10 am - 4 pm",
+  "isVeg": "This restaurant IS vegan!",
+  "descrip" : "Food truck inspired cuisine serving up vegan comforts."
+}

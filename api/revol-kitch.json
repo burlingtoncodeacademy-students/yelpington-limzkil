@@ -1,0 +1,14 @@
+{"id": "revol-kitch" ,
+    "name": "Revolution Kitchen" ,
+    "web": "https://revolutionkitchen.com/",
+    "address" : "9 Center St" ,
+    "lat" : "44.4779227",
+    "lon" : "-73.2116447" ,
+    "phone" : "(802) 448-3657",
+    "days": "Open Thurs - Sun",
+    "hours" : "5 pm - 9 pm" ,
+    "isVeg" : "This restaurant is not vegan, but IS vegetarian!",
+    "descrip" : "Fresh vegetarian cuisine focused on local and organic ingredients. All desserts are vegan!"
+    
+
+}

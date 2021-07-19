@@ -1,0 +1,13 @@
+{"id": "stone-soup" ,
+    "name": "Zabby & Elf's Stone Soup" ,
+    "web": "https://stonesoupvt.com/",
+    "address" : "211 College St" ,
+    "lat" : "44.477030",
+    "lon" : "-73.211430" ,
+    "phone" : "(802) 862-7616",
+    "days": "Open Wed - Sat",
+    "hours" : "10 am - 5 pm" ,
+    "isVeg" : "This restaurant is not vegan!",
+    "descrip" : "Downtown Burlington mainstay cafe offering a hot and cold bar. Perfect for school and work!" 
+
+}

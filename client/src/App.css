@@ -1,38 +1,74 @@
-.App {
-  text-align: center;
+/* all element styling */
+
+/* header styling across multiple pages */
+h1 {
+    font-size: 4rem;
+    font-family: 'Lobster', cursive;
+    background-color: rgb(193, 241, 193);
+    border-style: solid;
+    border-width: 1rem;
+    border-color: rgb(193, 241, 193);
+    border-radius: 1rem;
+    margin: .5rem;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+h2 {
+    font-size: 2rem;
+    font-family: 'EB Garamond', serif;
+    margin: 1rem;
+}
+h3 {
+    font-size: 1.5rem;
+    font-family: 'EB Garamond', serif;
+    margin: 0;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+/* restaurant page days/hours styling */
+blockquote,
+p{
+    text-align: center;
+    font-size: 1.5rem;
+    font-family: 'EB Garamond', serif
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+/* all class styling */
+
+/* nav button styling */
+.btn{
+    font-family: 'EB Garamond', serif;
+    display: flex;
+    padding: .5rem;
+    margin: .5rem;
+    text-decoration: none;
+    background-color: rgb(193, 241, 193);
 }
 
-.App-link {
-  color: #61dafb;
+.btn a, a:visited{
+    color: black;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+
+/* all id styling */
+
+/* navigation wrapper div styling */
+#nav-wrap {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+
+
+}
+
+/* home page text and restaurant page text wrapper styling */
+#text-wrap,
+#resta-wrap {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* make queen city in red on home */
+#qc {
+    display: inline;
+    color: rgb(124, 2, 2);
 }

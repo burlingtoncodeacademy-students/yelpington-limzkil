@@ -1,0 +1,13 @@
+{"id": "tiny-thai" ,
+    "name": "Tiny Thai" ,
+    "web": "https://www.tinythairestaurant.net/",
+    "address" : "293 Main Street " ,
+    "lat" : "44.4903305",
+    "lon" : "-73.18678905" ,
+    "phone" : "(802) 655-4888",
+    "days": "Open Tues - Sat",
+    "hours" : "4pm - 8:30 pm" ,
+    "isVeg" : "This restaurant is not vegan!" ,
+    "descrip" : "Incredible Thai cuisine offering Vegan specific menu."
+}   
+
