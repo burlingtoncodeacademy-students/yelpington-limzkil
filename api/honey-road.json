@@ -1,0 +1,13 @@
+{"id": "honey-road" ,
+    "name": "Honey Road" ,
+    "web": "https://www.honeyroadrestaurant.com/",
+    "address" : "156 Church St" ,
+    "lat" : "44.476120",
+    "lon" : "-73.212212" ,
+    "phone" : "(802) 497-2145",
+    "days": "Open Thurs - Sun",
+    "hours" : "12 pm to 8 pm" ,
+    "isVeg" : "This restaurant is not vegan!" ,
+    "descrip" : "Chef/owner Chigazola Tobin offers James Beard nominated Eastern Mediterranean Mezze (small plates)."
+
+}
